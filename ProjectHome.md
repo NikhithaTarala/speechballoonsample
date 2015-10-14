@@ -1,0 +1,1 @@
+Displays a list view whose items are drawn in a TextView inside a cartoon speech balloon (9-patch background drawable).
